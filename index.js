@@ -9,9 +9,9 @@ app.get('/api/movies', (req, res)=>{
     res.send([1,2,3]);
 });
 
-// Running server
-const { PORT = 3000 } = process.env;
+// PORT 
+const port = process.env.PORT || 3000;
 
-app.listen(PORT, () => {
-    console.log(`Listening on port: ${PORT}`);
+app.listen(port, () => {
+    console.log(`Listening on port: ${port}`);
 });
