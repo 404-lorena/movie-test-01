@@ -8,3 +8,5 @@ Setting up the repo and server
 - [ ] [Node.JS](https://nodejs.org/en)
 - [ ] [Express](https://expressjs.com/)
 
+## Resources
+- [How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
