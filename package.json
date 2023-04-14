@@ -1,0 +1,22 @@
+{
+  "name": "movie-test-01",
+  "version": "1.0.0",
+  "description": "Build a RESTful API with nodejs for movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404-lorena/movie-test-01.git"
+  },
+  "author": "DaleLore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/404-lorena/movie-test-01/issues"
+  },
+  "homepage": "https://github.com/404-lorena/movie-test-01#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

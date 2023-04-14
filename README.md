@@ -1,1 +1,10 @@
-# movie-test-01
+# Build a Movie API: Part 1
+Building a REST API with Node js & Express for movies
+
+## Objective
+Setting up the repo and server
+
+## Prerequisites
+- [ ] [Node.JS](https://nodejs.org/en)
+- [ ] [Express](https://expressjs.com/)
+
